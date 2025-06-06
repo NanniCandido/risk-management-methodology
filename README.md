@@ -2,7 +2,7 @@
 Implemented end-to-end risk management methodology across all departments.
 
 **Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
-**Duration:** December 2004 – January 2021  
+**Duration:** December 2016 – January 2018  
 **Role:** Public Auditor working as a Business Analyst  
 **Note:** Due to confidentiality, code and data files cannot be shared.
 
@@ -12,5 +12,7 @@ Implemented a comprehensive risk management methodology across all departments. 
 ### 🛠️ Skills & Tools
 - Risk analysis based on ISO 9001:2015 
 - Process mapping (BPMN notation)
+- Bizagi
+- Excel
 - Training & documentation  
 - Stakeholder engagement  
