@@ -6,7 +6,7 @@ Implemented end-to-end risk management methodology across all departments.
 **Role:** Public Auditor working as a Business Analyst  
 **Note:** Due to confidentiality, code and data files cannot be shared.
 
-### 📌 Project Summary
+### 📌 Project Overview
 Implemented a comprehensive risk management methodology across all departments. Provided training and ongoing process support, collaborating on process mapping and mitigation strategies to improve operational efficiency. The project involved handling sensitive information with strict adherence to ethical standards, aligning with data confidentiality practices expected in financial environments.
 
 ### 🛠️ Skills & Tools
