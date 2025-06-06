@@ -1,5 +1,5 @@
-# risk-management-methodology
-Implemented end-to-end risk management methodology across departments
+# 📈 Risk Management Methodology
+Implemented end-to-end risk management methodology across all departments.
 
 **Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
 **Duration:** December 2004 – January 2021  
@@ -10,7 +10,7 @@ Implemented end-to-end risk management methodology across departments
 Implemented a comprehensive risk management methodology across all departments. Provided training and ongoing process support, collaborating on process mapping and mitigation strategies to improve operational efficiency. The project involved handling sensitive information with strict adherence to ethical standards, aligning with data confidentiality practices expected in financial environments.
 
 ### 🛠️ Skills & Tools
-- Risk analysis  
+- Risk analysis based on ISO 9001:2015 
 - Process mapping (BPMN notation)
 - Training & documentation  
 - Stakeholder engagement  
