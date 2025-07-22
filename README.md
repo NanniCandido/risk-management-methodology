@@ -7,7 +7,7 @@ Implemented end-to-end risk management methodology across all departments.
 **Note:** Due to confidentiality, code and data files cannot be shared.
 
 ### 📌 Project Overview
-Implemented a comprehensive risk management methodology across all departments. Provided training and ongoing process support, collaborating on process mapping and mitigation strategies to improve operational efficiency. The project involved handling sensitive information with strict adherence to ethical standards, aligning with data confidentiality practices expected in financial environments.
+Implemented a comprehensive risk management methodology across all departments. Provided training and ongoing process support, collaborating on process mapping and mitigation strategies to improve operational efficiency. The project involved handling sensitive information with strict adherence to ethical standards, aligning with data confidentiality practices expected when working with data.
 
 **Situation:**  
 TCE-RS lacked a formal risk management framework and needed to roll out ERM across ~80 departments, aligned with ISO 9001:2015, within one year.
