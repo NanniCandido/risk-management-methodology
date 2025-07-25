@@ -1,7 +1,7 @@
 # 🛡️ Enterprise Risk Management (ERM) Implementation
 Implemented end-to-end risk management methodology across all departments.
 
-**Institution:** Tribunal de Contas do Estado do Rio Grande do Sul  
+**Institution:** Court of Auditors of Rio Grande do Sul / Tribunal de Contas do Estado do Rio Grande do Sul (TCE-RS)  
 **Duration:** March 2016 – March 2018 / January 2020 - January 2021  
 **Role:** Public Auditor working as a Business Analyst  
 **Note:** Due to confidentiality, code and data files cannot be shared.
@@ -13,7 +13,7 @@ Implemented a comprehensive risk management methodology across all departments. 
 TCE-RS lacked a formal risk management framework and needed to roll out ERM across ~80 departments, aligned with ISO 9001:2015, within one year.
 
 **Task:**  
-Co-lead the design and implementation of a lightweight, accessible risk methodology to build a risk-aware culture and improve process resilience.
+Co-led the design and implementation of a lightweight, accessible risk methodology to build a risk-aware culture and improve process resilience.
 
 **Action:**
 - Conducted benchmarking visits to institutions with mature ERM practices.
